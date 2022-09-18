@@ -1,12 +1,22 @@
 # NLW Sports - setembro-2022
 
+> Trilha Explorer
+
 Repositório de participação na NLW de Setembro de 2022, Rocketseat.
 
 ### Deployment
 
+![preview](./.github/preview.png)
+
 <div>
   <p>Deploy em <a href="https://adrianomonteiroweb.github.io/nlw-set-2022/">https://adrianomonteiroweb.github.io/nlw-set-2022/</a></p>
 </div>
+
+## Tecnologias
+
+- HTML Semântico;
+- CSS3;
+- Git e Github.
 
 ### Por
 
